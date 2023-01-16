@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <body style="background-color: aliceblue;"></body>
+        <style>
+        .bio {
+            margin-left: 50%;
+                margin-right: 5%;
+                width: 45%;
+                background-color: aliceblue;
+                color: black;
+                font-family: sans-serif;
+                font-size: 30px;
+                font-weight: 300;
+                
+        }
+        .comments{
+            margin-left: 68%;
+            width: 10%;
+            text-align: center;
+            font-family: sans-serif;
+        }
+        </style>
+        <div>
+            <header class="center", style="color: rgb(0, 0, 0); text-align: left; margin-left: 0px; margin-top: 0%; font-size: 120px; font-family: sans-serif; font-weight: 200;">
+                MIKE ZHANG
+            </header>
+            <p style="text-align:left;color: rgb(0, 0, 0); font-size: 30px; font-family: sans-serif; font-weight: 300; padding-left: 5%;">
+                    <i>Rice University Class of 2026</i>. <br> 
+                    LinkedIn Webpage: <i><a style = "color: rgb(52, 227, 233);"href="https://www.linkedin.com/in/mike-zhang-201130245/">Mike's LinkedIn Page</a></i>. 
+            </p>
+        </div>
+        <Article, class="bio">
+            <p style="margin-left: 40%;
+            margin-right: 15%;
+            width: 45%;
+            text-align: right;">
+                Born in 2004 and grown up in Wuhan, China, I spent my 18 years of life in my hometown. I entered 
+                <a style = "color: rgb(52, 227, 233);"href="https://www.whbc2000.com/">Wuhan Britain-China School</a> in order to study abroad. The picture at the front Page
+                was taken during my high school. 
+            </p>
+            <p style="            margin-left: 15%;
+            margin-right: 40%;
+            width: 45%;">
+                During high school, I start to become interested in Chemistry, especially inorganic chemistry. 
+                As I learned more about college inorganic chemistry, I felt aroused by chemistry's subfield materals chemistry which drove me 
+                to apply to Rice University that is known for its Smalley-Curl Institute. 
+            </p>
+            <p style="            margin-left: 40%;
+            margin-right: 15%;
+            width: 45%;
+            text-align: right;">
+
+                Though starting out to be a chemistry researcher. I felt only physics could explain the inner logic of chemistry. Meanwhile, when I found difficulty disposing 
+                chemistry data in the lab and impressed by the language processing machine developed by Keda Xunfei during a visit, I realized the importance of 
+                computer science. Thus, I changed my focus from a chemistry student to a physics+compsci student. 
+            </p>
+            <p style="            margin-left: 15%;
+            margin-right: 40%;
+            width: 45%;">
+                Website contributed by Mike Zhang and Luke Liu
+            </p>
+        </Article>
+    </body>
+    <form , class='comments' action="mailto:mikezhang859@gmail.com">
+        <fieldset>
+            <legend>Comments:</legend>
+            <input type="submit" value="Send Anything You Want To Say!">
+            </fieldset>
+    </form>
+</html>
