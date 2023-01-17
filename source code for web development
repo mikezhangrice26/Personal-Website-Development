@@ -26,7 +26,7 @@
             </header>
             <p style="text-align:left;color: rgb(0, 0, 0); font-size: 30px; font-family: sans-serif; font-weight: 300; padding-left: 5%;">
                     <i>Rice University Class of 2026</i>. <br> 
-                    LinkedIn Webpage: <i><a style = "color: rgb(52, 227, 233);"href="https://www.linkedin.com/in/mike-zhang-201130245/">Mike's LinkedIn Page</a></i>. 
+                    <a href="https://www.linkedin.com/in/mike-zhang-201130245/">Mike's LinkedIn Page</a>. 
             </p>
         </div>
         <Article, class="bio">
@@ -35,7 +35,7 @@
             width: 45%;
             text-align: right;">
                 Born in 2004 and grown up in Wuhan, China, I spent my 18 years of life in my hometown. I entered 
-                <a style = "color: rgb(52, 227, 233);"href="https://www.whbc2000.com/">Wuhan Britain-China School</a> before coming to America. 
+                <a href="https://www.whbc2000.com/">Wuhan Britain-China School</a> before coming to America. 
             </p>
             <p style="            margin-left: 15%;
             margin-right: 40%;
